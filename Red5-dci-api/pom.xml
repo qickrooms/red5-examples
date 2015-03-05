@@ -5,7 +5,7 @@
     <artifactId>dci</artifactId>
     <packaging>war</packaging>
 	<!--<name>oflaDemo</name>-->
-    <name>dci</name>
+    <name>red5-dci-api</name>
     <version>0.0.0.1</version>
     <!--<url>https://github.com/Red5/red5-examples/tree/master/oflaDemo</url>-->
     <url>https://github.com/qickrooms/red5-examples/oflaDemo</url>
